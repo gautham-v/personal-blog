@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: '',
   description: 'Welcome to my blog about product, system design and AI/ML!',
   language: 'en-us',
-  siteUrl: '',
+  siteUrl: 'https://gauthamv.com',
   siteRepo: 'https://github.com/gautham-v/personal-blog',
   image: '/static/img/avatar.jpeg',
   socialBanner: '/static/img/twitter-card.png',
